@@ -20,6 +20,12 @@ function Resume() {
           <Col md={6} className='resume-left'>
             <h3 className='resume-title'>Experience</h3>
             <Resumecontent
+              title='Associate Site Reliability Engineer [Pearson Lanka]'
+              date='April 2021 - Current'
+              content={[
+              ]}
+            />
+            <Resumecontent
               title='Full Stack Developer Intern [Prodigi Interactive]'
               date='June 2020 - December 2020'
               content={[
@@ -72,8 +78,8 @@ function Resume() {
               title=''
               content={[
                 "Became Postman Student Expert [Jan 2021]",
-                "Completed Hacktoberfest [Oct 2021]",
-                "Completed Google Cloud Kasthiram Challenge [Oct 2021]",
+                "Completed Hacktoberfest [Oct 2020]",
+                "Completed Google Cloud Kasthiram Challenge [Oct 2020]",
                 "Get Selected for HackX in Semifinals",
                 "Participated in AIT Sustainability Hackathon 2020",
                 "Karate Green Belt",

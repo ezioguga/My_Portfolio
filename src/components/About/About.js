@@ -39,10 +39,10 @@ function About() {
           Professional <strong className='purple'>Skillset </strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-          <Techstack iconName='devicon-java-plain-wordmark' />
+          <Techstack iconName='devicon-csharp-plain-wordmark' />
           <Techstack iconName='devicon-javascript-plain ' />
           <Techstack iconName='devicon-python-plain-wordmark ' />
-          <Techstack iconName='devicon-flutter-plain' />
+          <Techstack iconName='devicon-dot-net-plain-wordmark' />
           <Techstack iconName='devicon-nodejs-plain-wordmark ' />
           <Techstack iconName='devicon-express-original-wordmark' />
           <Techstack iconName='devicon-react-original-wordmark' />

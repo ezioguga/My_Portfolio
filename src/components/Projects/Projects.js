@@ -40,7 +40,7 @@ function Projects() {
               isBlog={false}
               title='SnapMate'
               description='This is an online anonymous dating chat application. Front-end was developed using React and Back-end was developed in Nodejs and socket'
-              link='https://github.com/ezioguga/SnapMate_ChatApp_Client.'
+              link='https://github.com/ezioguga/SnapMate_ChatApp_Client'
             />
           </Col>
 
@@ -50,7 +50,7 @@ function Projects() {
               isBlog={false}
               title='Stackoverflowers-Sri Lanka'
               description='This is an ongoing project i do in my part-time. Planning to dedicate this site to the famous Stackoverflowers-Sri Lanka facebook group. Backend work is completed in Nodejs and front-end will be developed using React.'
-              link='https://github.com/ezioguga/stackoverflows_SL'
+              link='https://github.com/ezioguga/Stackoverflowers'
             />
           </Col>
         </Row>

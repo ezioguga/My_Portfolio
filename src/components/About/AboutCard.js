@@ -33,11 +33,10 @@ function AboutCard() {
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "A world where everyone is equal and receives the same treatment. No
-            such place exists. If there was a world of equality, where talent
-            and aptitude didn’t matter, we would all be equally snubbed there."{" "}
+            "If I try, I fail. If i don't try i'm never going to get it."{" "}
           </p>
-          <footer className='blockquote-footer'>Gugatharsan</footer>
+          <footer className='blockquote-footer'>Aang (Avatar: The Last Airbender)
+</footer>
         </blockquote>
       </Card.Body>
     </Card>
