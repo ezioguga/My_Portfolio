@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Github from "./Github";
+// import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
@@ -39,18 +39,18 @@ function About() {
           Professional <strong className='purple'>Skillset </strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-          <Techstack iconName='devicon-csharp-plain-wordmark' />
+          <Techstack iconName='devicon-terraform-plain-wordmark' />
           <Techstack iconName='devicon-javascript-plain ' />
           <Techstack iconName='devicon-python-plain-wordmark ' />
-          <Techstack iconName='devicon-dot-net-plain-wordmark' />
+          <Techstack iconName='devicon-kubernetes-plain-wordmark' />
           <Techstack iconName='devicon-nodejs-plain-wordmark ' />
           <Techstack iconName='devicon-express-original-wordmark' />
           <Techstack iconName='devicon-react-original-wordmark' />
-          <Techstack iconName='devicon-angularjs-plain' />
+          <Techstack iconName='devicon-docker-plain-wordmark' />
           <Techstack iconName='devicon-mysql-plain' />
           <Techstack iconName='devicon-mongodb-plain-wordmark' />
           <Techstack iconName='devicon-amazonwebservices-plain-wordmark' />
-          <Techstack iconName='devicon-git-plain-wordmark' />
+          <Techstack iconName='devicon-bash-plain' />
         </Row>
         <h1 className='project-heading'>
           <strong className='purple'>Tools</strong> I use
@@ -58,12 +58,12 @@ function About() {
         <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
           <Techstack iconName='devicon-linux-plain' />
           <Techstack iconName='cib-visual-studio-code' />
-          <Techstack iconName='cib-anaconda' />
+          <Techstack iconName='devicon-gitlab-plain-wordmark' />
           <Techstack iconName='cib-postman' />
           <Techstack iconName='devicon-bitbucket-original-wordmark' />
           <Techstack iconName='devicon-github-original-wordmark' />
         </Row>
-        <Github />
+        {/* <Github /> */}
       </Container>
     </Container>
   );

@@ -12,16 +12,15 @@ function AboutCard() {
             Hi Everyone, I am{" "}
             <span className='purple'>Gugatharsan Sivalingam </span>
             from <span className='purple'> Jaffna, Sri Lanka.</span>
-            <br />I am a Software Engineering Graduate from SLIIT and Completed
-            my 6 months internship at Prodigi Interactive.
+            <br />I am a Site Reliablity Engineer who always looks for the new challenges and learn different domains.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className='about-activity'>
-              <i className='far fa-hand-point-right'></i> Watching Animes and
-              Playing Video Games
+              <i className='far fa-hand-point-right'></i> Watching Movies, Animes and
+              Playing Video Games (I own a PS5)
             </li>
             <li className='about-activity'>
               <i className='far fa-hand-point-right'></i> Writting Medium

@@ -9,8 +9,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import CKDA from "../../Assets/Projects/CKDA.PNG";
 import SM from "../../Assets/Projects/SM.PNG";
 import SOS from "../../Assets/Projects/SOS.png";
-import ML from "../../Assets/Projects/ML.png";
-import lambda from "../../Assets/Projects/lambda.png";
+import chaos from "../../Assets/Projects/chaos.jpg";
+import cdktf from "../../Assets/Projects/cdktf.png";
 
 function Projects() {
   return (
@@ -61,18 +61,16 @@ function Projects() {
         <Row style={{ justifyContent: "center" }}>
           <Col md={4} className='blog-card'>
             <BlogCard
-              imgPath={ML}
-              link='https://medium.com/analytics-vidhya/an-introduction-to-machine-learning-574bafa6fc66'
-              title='An Introduction to Machine Learning'
-              site='medium.com'
+              imgPath={cdktf}
+              link='https://ezioguga.medium.com/provisioning-the-infrastructure-using-cdk-for-terraform-1db51f6ed686'
+              title='Provisioning the infrastructure using CDK for Terraform'
             />
           </Col>
           <Col md={4} className='blog-card'>
             <BlogCard
-              imgPath={lambda}
-              link='https://medium.com/prodigi-interactive/how-to-deploy-nodejs-serverless-application-in-aws-lambda-d7fccb9e356c'
-              title='Deploying NodeJS serverless application in AWS Lambda'
-              site='medium.com'
+              imgPath={chaos}
+              link='https://medium.com/aws-in-plain-english/building-confidence-in-your-system-with-chaos-engineering-using-aws-fault-injection-simulator-fis-847aed283a1e'
+              title='How to Build Confidence in Your System with Chaos Engineering Using AWS Fault Injection Simulator'
             />
           </Col>
         </Row>

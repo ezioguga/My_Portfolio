@@ -15,28 +15,24 @@ function Home2() {
               LET ME <span className='purple'> INTRODUCE </span> MYSELF
             </h1>
             <p className='home-about-body'>
-              B.Sc Software engineering graduate who is very enthusiastic on
-              finding and learning new technologies and have some startup
-              culture experiences 👨🏽‍🎓
+              A Site Reliablity Engineer who's experience enough to build enterprise scale
+              scalable & reliable infrastructure and master of different set of tools & technologies. I have expertise in AWS.
+              I'm also have bit of experience with Big Data Engineering as well.
               <br />
               <br />I am good in classics like
               <i>
-                <b className='purple'> Java, Python and Javascript. </b>
+                <b className='purple'> Javascript, Python & Shell. </b>
               </i>
               <br />
               <br />
               My current focus is on &nbsp;
               <i>
-                <b className='purple'>Data Science and DevOps.</b>
+                <b className='purple'> Containerization and Big Data </b>
               </i>
               <br />
-              <br />I have working experiences in
+              <br />I have working experiences in different sets of domains such as
               <i>
-                <b className='purple'> Modern Javascript Libraries </b>
-              </i>
-              like
-              <i>
-                <b className='purple'> Node.js and React.js</b>
+                <b className='purple'> Development, Operations, Security, Networking, Automations, Data-Visualization </b>
               </i>
             </p>
           </Col>
